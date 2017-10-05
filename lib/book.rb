@@ -1,3 +1,3 @@
 class Book
-def initialize("And Then There Were None")
+def initialize(title)
 end
