@@ -7,4 +7,4 @@ def title
 end
 def author=(author)
 end
-end 
+end
